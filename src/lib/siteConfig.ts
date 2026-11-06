@@ -35,7 +35,7 @@ export const siteConfig: SiteConfig = {
   brandName: 'OTRO',
   tagline: 'Business Beyond Borders',
   description:
-    'OTRO — a division of OTRO INNOVATIONS LLC. Bridging China, Bangladesh and the world across trade, education, digital marketing and travel.',
+    'OTRO — the corporate gateway of OTRO INNOVATIONS LLC. Bridging China, Bangladesh and the world across trade, education, digital marketing and travel.',
   legalEntityName: 'OTRO INNOVATIONS LLC',
   contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL ?? 'hello@otro.bd',
   phone: '+880-XXXXXXXXX', // USER: replace with verified business number
